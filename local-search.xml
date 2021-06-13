@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>我的第一篇文章</title>
+    <link href="/2021/06/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2021/06/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="仪式感极强的说些什么"><a href="#仪式感极强的说些什么" class="headerlink" title="仪式感极强的说些什么"></a>仪式感极强的说些什么</h1><blockquote><p>算是端午节前夕吧，创建个人博客里的第一篇文章。最近新开了很多坑，希望有时间有毅力坚持下去，虽是漫无目的的折腾，但一步步走到这里，也充满了惊奇和满足。</p></blockquote><h2 id="时间线回顾"><a href="#时间线回顾" class="headerlink" title="时间线回顾"></a>时间线回顾</h2><blockquote><p>这是我来厦门大学读研的第一年第二个学期</p></blockquote><ul><li>这学期早些时候在接触Linux命令，虚拟机上安装CentOS，搭建VASP；这些工作在办公室微型工作站上进行</li><li>后来转而学习Git知识和命令，再后来下载了VScode，进行Git实际操作练习，但并无实际项目可做；当时看了油管相关视频，催生出自学Java想法</li><li>机缘巧合认识小胡，在她建议下学习用Python实现jieba分词，这算是我Github上第一个像样的项目了；实际上我需要摸索的东西还很多，允许我一些不成熟的工作吧</li><li>jieba分词算是简单入门，但我还是没开始学Java，为了坚定我学习的信心我又找视频看了看，Java是很有必要学习的，但Hexo借助Github搭建静态博客让我又十分感兴趣，于是在端午节假期搭建了这个名为cheektan.git.io的博客；这也就是本博客诞生的起源了</li><li>然而博客虽只是搭建并未掌握如何运营打理，心中对Latex排版充满好奇，我知道我迟早会去折腾一下的，算是新坑预定了</li><li>到这里我从Linux Git Python Java Blog 这几个却无一精通也谈不上初阶，不禁有些羞愧、焦虑起来；感叹过去躺平天天看看视频乐呵呵也是一样过，现在忙起来却很难再躺平下去</li><li>不知自己能走多久，也许是三分热度，也并无远大目标；现阶段就馋是互联网行业的高薪，说到底到现在的推动力也就是找工作的责任快要落到肩头了</li><li>也就一年时间，不立什么目标了，就期望自己学好Java，刷刷Leetcode，真的能进互联网大厂，收到高薪Offer；保持一份热爱everything</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>生活日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2021/06/12/hello-world/"/>
     <url>/2021/06/12/hello-world/</url>
