@@ -835,7 +835,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/bannaer.jpg
+  banner_img: /img/about.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
