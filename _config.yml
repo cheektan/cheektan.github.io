@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Cheektan's blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Cheek Tan
 language: zh-CN
 timezone: ''
 
@@ -98,7 +98,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: fluid
-# language: zh-CN
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
