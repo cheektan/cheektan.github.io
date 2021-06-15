@@ -5,5 +5,8 @@ layout: about
 ---
 Cheektan的博客
 ===
-BY `Hexo` `Github`
+- [cheektan.github.io](https://cheektan.github.io)
+- [cheektan.vercel.app](https://cheektan.vercel.app)
+
+BY `Hexo` `Github` `Vercel`
 ---
