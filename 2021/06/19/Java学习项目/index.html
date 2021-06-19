@@ -14,12 +14,11 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="theme-color" content="#2f4154">
-  <meta name="description" content="LaTex排版系统学习
-终于还是开始折腾LaTeX了，简单看了一些教程，理清安装部署脉络，前期工作还是很顺利的。虽然学校图书馆有提供LaTeX教学，但还是不如自己从零开始学的痛快。">
+  <meta name="description" content="">
   <meta name="author" content="Cheek Tan">
   <meta name="keywords" content="">
   
-  <title>LaTeX Learning Chapter-One - Cheektan&#39;s blog</title>
+  <title>Java学习项目 - Cheektan&#39;s blog</title>
 
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
 
@@ -216,7 +215,7 @@
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
           <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="LaTeX Learning Chapter-One">
+            <span class="h2" id="subtitle" title="Java学习项目">
               
             </span>
 
@@ -226,8 +225,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2021-06-15 19:34" pubdate>
-        2021年6月15日 晚上
+      <time datetime="2021-06-19 14:16" pubdate>
+        2021年6月19日 下午
       </time>
     </span>
   
@@ -238,7 +237,7 @@
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      642 字
+      49 字
     </span>
   
 
@@ -248,7 +247,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      8
+      1
        分钟
     </span>
   
@@ -278,35 +277,16 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">LaTeX Learning Chapter-One</h1>
+            <h1 style="display: none">Java学习项目</h1>
             
             <div class="markdown-body">
-              <h1 id="LaTex排版系统学习"><a href="#LaTex排版系统学习" class="headerlink" title="LaTex排版系统学习"></a>LaTex排版系统学习</h1><blockquote>
-<p>终于还是开始折腾LaTeX了，简单看了一些教程，理清安装部署脉络，前期工作还是很顺利的。虽然学校图书馆有提供LaTeX教学，但还是不如自己从零开始学的痛快。</p>
-<span id="more"></span>
-<blockquote>
-<p>总的来看LaTeX的学习不可能一篇post能讲完，先加个tag，后续边学边写吧！</p>
+              <blockquote>
+<p>学习之初，找找资料打好基础，等有所领会，再做详细记录。</p>
 </blockquote>
-</blockquote>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1457707554&auto=1&height=66"></iframe>
-
-<h2 id="TeX-Live安装"><a href="#TeX-Live安装" class="headerlink" title="TeX Live安装"></a>TeX Live安装</h2><p>选择LaTex发行版TeX Live，是因为其对中文友好且网上教程详细，大佬推荐居多。因为VSCode编辑环境很喜欢，因此采用LaTeX和VSCode联动，实现文章和论文的撰写和排版功能。</p>
-<blockquote>
-<p><del>吐槽</del> 4个多G的iso镜像，在没勾前端的默认安装情况下硬是装了半小时，LaTeX排版系统的强大不言而喻了。<em>逃~</em></p>
-</blockquote>
-<p><a target="_blank" rel="noopener" href="https://blog.csdn.net/qq_39546004/article/details/104652095">TeX、LaTeX、TeXLive、TeXstudio区别</a></p>
-<h2 id="VSCode部署"><a href="#VSCode部署" class="headerlink" title="VSCode部署"></a>VSCode部署</h2><p>在TeX Live成功安装后，下载VSCode扩展LaTeX Workshop，在设置settings.json中添加配置：</p>
-<details><summary>点击显示代码行</summary><div class="hljs code-wrapper"><pre><code>
-<figure class="highlight json"><table><tr><td class="gutter hljs"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs json">&#123;<br>  <span class="hljs-comment">// &quot;LaTeX Workshop&quot;</span><br>  <span class="hljs-attr">&quot;latex-workshop.latex.outDir&quot;</span>: <span class="hljs-string">&quot;%DIR%/build&quot;</span>,<br>  <span class="hljs-attr">&quot;latex-workshop.latex.tools&quot;</span>: [<br>    &#123;<br>      <span class="hljs-comment">// 编译工具和命令</span><br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;xelatex&quot;</span>,<br>      <span class="hljs-attr">&quot;command&quot;</span>: <span class="hljs-string">&quot;xelatex&quot;</span>,<br>      <span class="hljs-attr">&quot;args&quot;</span>: [<br>        <span class="hljs-string">&quot;-synctex=1&quot;</span>,<br>        <span class="hljs-string">&quot;-interaction=nonstopmode&quot;</span>,<br>        <span class="hljs-string">&quot;-file-line-error&quot;</span>,<br>        <span class="hljs-string">&quot;-pdf&quot;</span>,<br>        <span class="hljs-string">&quot;--output-directory=%OUTDIR%&quot;</span>,<br>        <span class="hljs-string">&quot;%DOCFILE%&quot;</span><br>      ]<br>    &#125;,<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;pdflatex&quot;</span>,<br>      <span class="hljs-attr">&quot;command&quot;</span>: <span class="hljs-string">&quot;pdflatex&quot;</span>,<br>      <span class="hljs-attr">&quot;args&quot;</span>: [<br>        <span class="hljs-string">&quot;-synctex=1&quot;</span>,<br>        <span class="hljs-string">&quot;-interaction=nonstopmode&quot;</span>,<br>        <span class="hljs-string">&quot;-file-line-error&quot;</span>,<br>        <span class="hljs-string">&quot;--output-directory=%OUTDIR%&quot;</span>,<br>        <span class="hljs-string">&quot;%DOCFILE%&quot;</span><br>      ],<br>    &#125;,<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;bibtex&quot;</span>,<br>      <span class="hljs-attr">&quot;command&quot;</span>: <span class="hljs-string">&quot;bibtex&quot;</span>,<br>      <span class="hljs-attr">&quot;args&quot;</span>: [<br>        <span class="hljs-string">&quot;%OUTDIR%/%DOCFILE%&quot;</span><br>      ],<br>      <span class="hljs-attr">&quot;env&quot;</span>: &#123;<br>        <span class="hljs-attr">&quot;TEXMFOUTPUT&quot;</span>: <span class="hljs-string">&quot;%OUTDIR%&quot;</span>,<br>      &#125;<br>    &#125;<br>  ],<br>  <span class="hljs-attr">&quot;latex-workshop.latex.recipes&quot;</span>: [<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;xelatex&quot;</span>,<br>      <span class="hljs-attr">&quot;tools&quot;</span>: [<br>        <span class="hljs-string">&quot;xelatex&quot;</span><br>      ]<br>    &#125;,<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;pdflatex&quot;</span>,<br>      <span class="hljs-attr">&quot;tools&quot;</span>: [<br>        <span class="hljs-string">&quot;pdflatex&quot;</span><br>      ]<br>    &#125;,<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;xe-&gt;bib-&gt;xe-&gt;xe&quot;</span>,<br>      <span class="hljs-attr">&quot;tools&quot;</span>: [<br>        <span class="hljs-string">&quot;xelatex&quot;</span>,<br>        <span class="hljs-string">&quot;bibtex&quot;</span>,<br>        <span class="hljs-string">&quot;xelatex&quot;</span>,<br>        <span class="hljs-string">&quot;xelatex&quot;</span><br>      ]<br>    &#125;,<br>    &#123;<br>      <span class="hljs-attr">&quot;name&quot;</span>: <span class="hljs-string">&quot;pdf-&gt;bib-&gt;pdf-&gt;pdf&quot;</span>,<br>      <span class="hljs-attr">&quot;tools&quot;</span>: [<br>        <span class="hljs-string">&quot;pdflatex&quot;</span>,<br>        <span class="hljs-string">&quot;bibtex&quot;</span>,<br>        <span class="hljs-string">&quot;pdflatex&quot;</span>,<br>        <span class="hljs-string">&quot;pdflatex&quot;</span><br>      ]<br>    &#125;<br>  ],<br>&#125;<br></code></pre></div></td></tr></table></figure>
-</code></pre></details>
-
-<p>settings.json中的配置不同，编译出来的文件存储方式有差别，以上设置使得编译生成文件的另存新文件夹，资源管理器界面十分整洁；至于其他的优缺点暂时还未遇到。</p>
-<div class="note note-info">
-            <p>后续需从基础学起，虽可以套用模板，但今天试用发现模板在不同设备上还是存在一些问题，只有从底层基础学起才能真正的用好LaTeX。</p>
-          </div>
-<h2 id="论文模板练习"><a href="#论文模板练习" class="headerlink" title="论文模板练习"></a>论文模板练习</h2><ul>
-<li>Github<a target="_blank" rel="noopener" href="https://github.com/zoam/xmu-thesis-grd">厦门大学研究生学位论文 LaTeX 模板</a></li>
-<li>厦门大学经济学院官网<a target="_blank" rel="noopener" href="https://soe.xmu.edu.cn/research/xzzq/2017-02-03-13127.html">厦门大学研究生学位论文模板</a></li>
+<h2 id="学习资料"><a href="#学习资料" class="headerlink" title="学习资料"></a>学习资料</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://www.runoob.com/java/java-tutorial.html">菜鸟教程</a></li>
+<li><a target="_blank" rel="noopener" href="https://www.liaoxuefeng.com/wiki/1252599548343744">廖雪峰的官方网站</a></li>
+<li>Head First Java(第二版)中文版.pdf</li>
 </ul>
 
             </div>
@@ -319,7 +299,7 @@
                     
                       <a class="hover-with-bg" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a>
                     
-                      <a class="hover-with-bg" href="/categories/%E5%AD%A6%E4%B9%A0/LaTeX/">LaTeX</a>
+                      <a class="hover-with-bg" href="/categories/%E5%AD%A6%E4%B9%A0/%E7%BC%96%E7%A8%8B/">编程</a>
                     
                   </div>
                 
@@ -327,9 +307,7 @@
                   <div class="post-meta">
                     <i class="iconfont icon-tags"></i>
                     
-                      <a class="hover-with-bg" href="/tags/VSCode/">VSCode</a>
-                    
-                      <a class="hover-with-bg" href="/tags/LaTeX/">LaTeX</a>
+                      <a class="hover-with-bg" href="/tags/Java/">Java</a>
                     
                   </div>
                 
@@ -346,18 +324,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2021/06/18/%E8%AE%B021%E5%B9%B4618/">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">记21年618</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/2021/06/13/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/">
-                        <span class="hidden-mobile">我的第一篇文章</span>
+                      <a href="/2021/06/18/%E8%AE%B021%E5%B9%B4618/">
+                        <span class="hidden-mobile">记21年618</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
