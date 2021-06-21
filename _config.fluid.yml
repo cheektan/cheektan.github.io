@@ -57,11 +57,12 @@ code:
       # 在链接中挑选 style 填入
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
-      style: "Github Gist"
+      # style: "Github Gist"
+      style: "A 11 Y Dark"
 
       # 是否根据 style 改变代码背景色（如果 style 是深色背景别忘了开启此项）
       # If true, the code background will change color based on the style (If style has a dark background, don't forget to true)
-      bg_color: false
+      bg_color: true
 
     prismjs:
       # 在下方链接页面右侧的圆形按钮挑选 style 填入，也可以直接填入 css 链接
@@ -381,6 +382,11 @@ footer:
     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a>
     <i class="iconfont icon-love"></i>
     <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>
+    <div>
+      <span id="timeDate">载入天数...</span>
+      <span id="times">载入时分秒...</span>
+      <script src="/js/duration.js"></script>
+    </div>
   '
 
   # 展示网站的 PV、UV 统计数
@@ -854,7 +860,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/cheektan", tip: "GitHub" }
     - { class: "iconfont icon-telegram-fill", link: "https://t.me/Cheek_1215", tip: "Telegram" }
-    - { class: "iconfont icon-mail", link: "mailto:pengtan@stu.xmu.edu.cn", tip: "EMail" }
+    - { class: "iconfont icon-mail", link: "mailto:cheektan015@gmail.com", tip: "Email" }
 
 
 #---------------------------
@@ -919,6 +925,13 @@ links:
       link: "https://hacamer.github.io/",
       avatar: "/img/links/Hacamer.png"
     }
+    - {
+      title: "Akilarの糖果屋",
+      intro: "Hexo大佬",
+      link: "https://akilar.top/",
+      avatar: "/img/links/Akilar.png"
+    }
+
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
