@@ -4,19 +4,6 @@
   
   
   <entry>
-    <title>draft</title>
-    <link href="/2021/06/21/draft/"/>
-    <url>/2021/06/21/draft/</url>
-    
-    <content type="html"><![CDATA[<table><thead><tr><th><a id="demo">站点</a></th><th align="center">地址</th><th align="right">介绍</th></tr></thead><tbody><tr><td>fsdasdasd</td><td align="center">wqeqwew</td><td align="right">q</td></tr></tbody></table><p><span style="color:#519D9E; ">颜色</span></p><p><span style="font-size:0.7em;">0.7em 文字大小演示</span></p><p><a href="#demo"><p style="text-align:center">跳至上表格</p></a></p><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight:bold;">综合演示</br>优雅的</p><iframe src="https://cheektan.github.io/" width="100" height="500" name="topFrame"  resize="no" scrolling="yes" frameborder="0" id="topFrame"></iframe><details><p><b>好友申请备注</b></p><p><b>好友申请备注</b></p><p><b>好友申请备注</b></p></details><figure class="highlight xml"><table><tr><td class="gutter hljs"><div class="hljs code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></div></td><td class="code"><div class="hljs code-wrapper"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">details</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">b</span>&gt;</span>好友申请备注<span class="hljs-tag">&lt;/<span class="hljs-name">b</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">b</span>&gt;</span>好友申请备注<span class="hljs-tag">&lt;/<span class="hljs-name">b</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br><span class="hljs-tag">&lt;<span class="hljs-name">p</span>&gt;</span><span class="hljs-tag">&lt;<span class="hljs-name">b</span>&gt;</span>好友申请备注<span class="hljs-tag">&lt;/<span class="hljs-name">b</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">p</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">details</span>&gt;</span><br></code></pre></div></td></tr></table></figure>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Java学习项目</title>
     <link href="/2021/06/19/Java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/"/>
     <url>/2021/06/19/Java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/</url>
