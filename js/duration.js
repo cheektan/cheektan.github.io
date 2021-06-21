@@ -11,7 +11,7 @@
       hnum = "0" + hnum;
     }
     minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
-    munm = Math.floor(minutes);
+    mnum = Math.floor(minutes);
     if (String(mnum).length === 1) {
       mnum = "0" + mnum;
     }
