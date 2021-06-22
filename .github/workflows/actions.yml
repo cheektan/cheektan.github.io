@@ -20,11 +20,11 @@ jobs:
 
     - name: Hexo Generate         # 安装 Hexo 依赖并且生成静态文件
       run: |
-        rm -f .yarnclean
-        yarn --frozen-lockfile --ignore-engines --ignore-optional --non-interactive --silent --ignore-scripts --production=false
+        rm -f .npmclean
+        npm --frozen-lockfile --ignore-engines --ignore-optional --non-interactive --silent --ignore-scripts --production=false
         rm -rf ./public
-        yarn run hexo clean
-        yarn run hexo generate
+        npm run hexo clean
+        npm run hexo generate
 
     - name: Hexo Deploy           # 部署步骤，这里以 hexo deploy 为例
       env:
@@ -38,4 +38,4 @@ jobs:
         ssh-keyscan github.com >> ~/.ssh/known_hosts
         git config --global user.name "$GIT_NAME"
         git config --global user.email "$GIT_EMAIL"
-        yarn run hexo deploy
+        npm run hexo deploy
