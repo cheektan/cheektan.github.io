@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>校园记录</title>
+    <link href="/2021/07/06/%E6%A0%A1%E5%9B%AD%E8%AE%B0%E5%BD%95/"/>
+    <url>/2021/07/06/%E6%A0%A1%E5%9B%AD%E8%AE%B0%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<div class="note note-light">            <p>尝试在<code>言叶</code>添加图片，结果显示效果不佳；不论是用markdown语法还是HTML和css在不同客户端都表现较差；fluid对新page的json配置并不生效，而我对js无能为力，转而决定在post中放些图片，<code>言叶</code>就安心放些文字,就酱……</p>          </div><span id="more"></span><blockquote><p>请欣赏南强风光</p></blockquote><div class="group-image-container"><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdn.jsdelivr.net/gh/cheektan/img@master/%E8%A8%80%E5%8F%B6/20210705/20210705_1.jpg" alt="演武场"></div><div class="group-image-wrap"><img src="https://cdn.jsdelivr.net/gh/cheektan/img@master/%E8%A8%80%E5%8F%B6/20210705/20210705_2.jpg" alt="颂恩楼"></div></div><div class="group-image-row"><div class="group-image-wrap"><img src="https://cdn.jsdelivr.net/gh/cheektan/img@master/%E8%A8%80%E5%8F%B6/20210705/20210705_3.jpg" alt="凤凰花"></div></div></div>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+      <category>学校</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>碎碎念</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Java学习项目</title>
     <link href="/2021/06/19/Java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/"/>
     <url>/2021/06/19/Java%E5%AD%A6%E4%B9%A0%E9%A1%B9%E7%9B%AE/</url>
