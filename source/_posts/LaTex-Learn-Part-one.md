@@ -22,7 +22,7 @@ categories: [学习,LaTeX]
 ## VSCode部署
 在TeX Live成功安装后，下载VSCode扩展LaTeX Workshop，在设置settings.json中添加配置：
 <details>
-<summary>点击显示代码行</summary>
+<summary><span style="color:#4b5cc4">点击显示代码行</span></summary>
 ```json
 {
   // "LaTeX Workshop"

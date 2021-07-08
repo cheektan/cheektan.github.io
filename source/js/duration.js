@@ -1,7 +1,7 @@
 !(function () {
   function update() {
     var now = new Date();
-    var grt = new Date("2021-06-12 00:00:00");
+    var grt = new Date("2021/06/12 00:00:00");
     now.setTime(now.getTime() + 250);
     days = (now - grt) / 1000 / 60 / 60 / 24;
     dnum = Math.floor(days);
