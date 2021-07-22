@@ -88,7 +88,7 @@ fun_features:
 
     # 游标字符
     # Cursor character
-    cursorChar: "🌏"
+    cursorChar: "🌠"
 
     # 是否循环播放效果
     # If true, loop animation
@@ -311,6 +311,13 @@ navbar:
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { key: "言叶", link: "/言叶/", icon: "iconfont icon-brush"}
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
+    # - { key: '言叶', icon: 'iconfont icon-brush', 
+    #   submenu: [
+    #     { key: '2021', link: '/言叶/2021/' },
+    #     { key: '2022', link: '/言叶/2022/' },
+    #     { key: '2023', link: '/言叶/2023/' }
+    #   ]
+    # }
     # - { key: '文档', icon: 'iconfont icon-books', 
     #   submenu: [
     #     { key: '主题博客', link: 'https://hexo.fluid-dev.com/' },
@@ -638,7 +645,7 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: true
+    enable: false
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis

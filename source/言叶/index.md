@@ -6,71 +6,122 @@ banner_img_height: 70
 banner_mask_alpha: 0.5
 ---
 <div align=center>
-<img src="img/../../img/只言片语.png" width=200>
+  <img src="img/../../img/只言片语.png" width=200px>
 </div>
 
 ---
-<!-- <div align=center> -->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=516358165&auto=1&height=66"></iframe>
-<!-- </div> -->
-
----
-<details>
-<summary>2021-06-23</summary>
-<div align=center><dir>
-<big><b>莫名</b></big>
-<li>莫名的<span style='color:#6704E0'>诋毁</span></li>
-<li>莫名的<span style='color:#CA13FF'>嚣张</span></li>
-<li>莫名的<span style='color:#FF2246'>愤怒</span></li>
-</dir></div>
-</details>
-
----
-<details>
-<summary>2021-06-25</summary>
-<del>办公室摸鱼的感觉；比宿舍好多了</del>
-</details>
-
----
-<details>
-<summary>2021-06-30</summary>
-<b>暑假了</b><br>
-<p>两天没干什么正事，看完两季的<span style='color:#C85BBA'>《全裸监督》</span>，迥异的人生；<i>看他高楼起，看他宾客散</i> ；独特的人格魅力可以收获一众拥趸，一旦远离信赖的团队，众叛亲离，结局令人唏嘘。</p>
-</details>
-
----
-<details>
-<summary>2021-07-05</summary>
-<div align=center>
-<i>Rick and Morty</i> --SE<b>5</b>.EP<b>3</b>.<br>
-Key Words: LOVE<br>
-<a href="https://www.aha-music.com/Rick-and-Morty%2C-Mark-Mallman%2C-Ryan-Elder-Flowers-(feat.-Ryan-Elder---Mark-Mallman)-%5BFrom-Rick-and-Morty%3A-Season-5%5D-669055cd98f9f8b529ad0ba7e37fae96?utm_source=chrome&utm_medium=extension"><span style=color:#005CAF>Insert music</span></a>
+<div style="opacity:0.8 ;position:fixed; bottom:10px; left:10px">
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=516358165&auto=1&height=66"></iframe>
 </div>
-</details>
 
----
-<details>
-<summary>2021-07-08</summary>
-<em><b>java教程</b></em> 看不懂了，好难好难……<br>
-<span style=color:#BDC0BA><del>要掉头发la</del></span> 挣扎一会，继续看吧＞﹏＜
-</details>
+<div>
+  <details>
+    <summary>2021-06-23</summary>
+    <div align=center>
+      <dir>
+        <big><b>莫名</b></big>
+        <li>莫名的<span style='color:#6704E0'>诋毁</span></li>
+        <li>莫名的<span style='color:#CA13FF'>嚣张</span></li>
+        <li>莫名的<span style='color:#FF2246'>愤怒</span></li>
+      </dir>
+    </div>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-06-25</summary>
+    <del>办公室摸鱼的感觉；比宿舍好多了</del>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-06-30</summary>
+    <b>暑假了</b><br>
+    <p>两天没干什么正事，看完两季的<span style='color:#C85BBA'>《全裸监督》</span>，迥异的人生；<i>看他高楼起，看他宾客散</i> ；独特的人格魅力可以收获一众拥趸，一旦远离信赖的团队，众叛亲离，结局令人唏嘘。</p>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-05</summary>
+    <div align=center>
+      <i>Rick and Morty</i> --SE<b>5</b>.EP<b>3</b>.<br>
+      Key Words: LOVE<br>
+      <a href="https://www.aha-music.com/Rick-and-Morty%2C-Mark-Mallman%2C-Ryan-Elder-Flowers-(feat.-Ryan-Elder---Mark-Mallman)-%5BFrom-Rick-and-Morty%3A-Season-5%5D-669055cd98f9f8b529ad0ba7e37fae96?utm_source=chrome&utm_medium=extension"><span style=color:#005CAF>Insert music</span></a>
+    </div>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-08</summary>
+    <em><b>java教程</b></em> 看不懂了，好难好难……<br>
+    <span style=color:#BDC0BA><del>要掉头发la</del></span> 挣扎一会，继续看吧＞﹏＜
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-09</summary>
+    今天起早去逛<i><b>万象城</b></i>，20路公交坐了半个小时；<br>
+    主要去优衣库门下店试试<a href="https://www.uniqlo.cn/product-detail.html?productCode=u0000000024026"><span style=color:#dc7554>心水的短裤</span></a>，顺便看看有较搭的<span style=background-color:#f5f5dc style=color:#0C0C0C>上衣</span>；<br>
+    短裤尺码确定了，就等淘宝降价了👀<del>昨天还是149今天就199，不降还涨气晕</del>😤
+    <hr style="border-top:3px dashed #DC9FB4; height:0px;">
+    <p>后续：149买到，买了绿色<del>拒绝胡萝卜裤</del></p>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-10</summary>
+    <p align=center><a href=https://movie.douban.com/subject/6874403/><em><b><span style=color:#294048>再次出发之纽约遇见你</span></b><span style=color:#2cbdf3> Begin</span><span style=color:#fdc906> Again</span></em></a></p>
+    <!-- <br> -->
+    <ul>
+      <li>有好听的音乐集</li>
+      <li>有感人的音乐故事</li>
+      <li><b>还有更重要的<del style=font-weight:normal>城市</del><inset>人生</inset>爱情</b></li>
+    </ul>
+    <p>这部影片结局算很好，没给鸡汤也不会寄刀片；真正的恋爱不是只有情欲，是直击心灵的对话，是能让双方成为<i><span style=font-size:0.7em>自认为（私以为这就够了）</span></i>更好的人。</p>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-12</summary>
+    <style scoped>
+    .a{
+      /* text-align:left; */
+      white-space: pre-wrap;
+      text-indent: 10px;
+      line-height:15px;
+    }
+    </style>
+    <p class=a>   想在Blog添加评论区；</p>
+    <p class=a>         看了操作要实名认证；</p>
+    <p class=a>               一旦弄了后续各种美化；</p>
+    <p class=a>                     不值当，按住了躁动的💓</p>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-15</summary>
+      <p style=color:#2486b9;font-size:1.5em>许愿: 
+      <!-- <span style=color:#20894d;font-size:0.8em> 小胡 一定会找到一起看<i>爱在三部曲</i>的爱人，幸福，长久。</span>
+      <br>
+      <span style=color:#000000;font-size:0.5em>我希望小胡世界能有我</span> -->
+      </p>
+  </details>
+  <hr>
+  <details >
+    <summary>2021-07-18</summary>
+    <div>
+      <p align=center>一阵微风吹过<span style="color:green">~</span></p>
+      <ul>
+      <li>夏季的青草香……</li>
+      <li>夏季的海风拂……</li>
+      <li>夏季的朦阳明……</li>
+      <li>夏季的汗水洒……</li>
+      </ul>
+    </div>
+    <hr style="border-top:3px dashed #DC9FB4; height:0px;">
+    <p align=center>你看起来那么快乐自由</p>
+    <p align=center>羡慕不已 为你高兴</p>
+  </details>
+  <hr>
+  <details>
+    <summary>2021-07-19</summary>
+    <p align=center style=font-size:20px;color:#d2357d>Something beautiful happened.</p>
+  </details>
+  <hr>
+</div>
 
----
-<details>
-<summary>2021-07-09</summary>
-今天起早去逛<i><b>万象城</b></i>，20路公交坐了半个小时；<br>
-主要去优衣库门下店试试<a href="https://www.uniqlo.cn/product-detail.html?productCode=u0000000024026"><span style=color:#dc7554>心水的短裤</span></a>，顺便看看有较搭的<span style=background-color:#f5f5dc style=color:#0C0C0C>上衣</span>；<br>
-短裤尺码确定了，就等淘宝降价了👀<del>昨天还是149今天就199，不降还涨气晕</del>😤
-</details>
-
----
-<!-- <details>
-<summary>2021-07-10</summary> -->
-<center>
-<a href=https://movie.douban.com/subject/6874403/><em><b><span style=color:#294048>再次出发之纽约遇见你</span></b><span style=color:#2cbdf3> Begin</span><span style=color:#fdc906> Again</span></em></a><br><br>
-</center>
-<li>有好听的音乐集</li>
-<li>有感人的音乐故事</li>
-<b><li>还有更重要的<del>城市</del><inset>人生</inset>爱情</li></b>
-这部影片结局算很好，没给鸡汤也不会寄刀片；真正的恋爱不是只有情欲，是直击心灵的对话，是能让双方成为<i><span style=font-size:0.7em>自认为（私以为这就够了）</i>更好的人。
-</details>
+<!-- <details> -->
+<!-- <summary>2021-07-22</summary> -->
+<p align=center style=font-size:20px;color:#381924>Too young. Too simple. Sometimes naive.</p>
