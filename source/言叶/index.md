@@ -125,3 +125,6 @@ banner_mask_alpha: 0.5
 <!-- <details> -->
 <!-- <summary>2021-07-22</summary> -->
 <p align=center style=font-size:20px;color:#381924>Too young. Too simple. Sometimes naive.</p>
+<hr style="border-top:3px dashed #DC9FB4; height:0px">
+<p align=center>厚障壁 寒颤</p>
+<!-- </details> -->
