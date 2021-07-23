@@ -5,5 +5,5 @@ db.json
 node_modules/
 public/
 .deploy*/
-img/
+img_blog/
 *.lock
