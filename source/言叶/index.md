@@ -18,12 +18,12 @@ banner_mask_alpha: 0.5
   <details>
     <summary>2021-06-23</summary>
     <div align=center>
-      <dir>
+      <ul>
         <big><b>莫名</b></big>
         <li>莫名的<span style='color:#6704E0'>诋毁</span></li>
         <li>莫名的<span style='color:#CA13FF'>嚣张</span></li>
         <li>莫名的<span style='color:#FF2246'>愤怒</span></li>
-      </dir>
+      </ul>
     </div>
   </details>
   <hr>
@@ -80,14 +80,14 @@ banner_mask_alpha: 0.5
     .a{
       /* text-align:left; */
       white-space: pre-wrap;
-      text-indent: 10px;
-      line-height:15px;
+      text-indent: 0px;
+      line-height:30px;
     }
     </style>
-    <p class=a>   想在Blog添加评论区；</p>
-    <p class=a>         看了操作要实名认证；</p>
-    <p class=a>               一旦弄了后续各种美化；</p>
-    <p class=a>                     不值当，按住了躁动的💓</p>
+    <p class=a>   想在Blog添加评论区；
+            看了操作要实名认证；
+                   一旦弄了后续各种美化；
+                         不值当，按住了躁动的💓</p>
   </details>
   <hr>
   <details>
@@ -120,11 +120,18 @@ banner_mask_alpha: 0.5
     <p align=center style=font-size:20px;color:#d2357d>Something beautiful happened.</p>
   </details>
   <hr>
+  <details>
+    <summary>2021-07-22</summary>
+    <p align=center style=font-size:20px;color:#381924>Too young. Too simple. Sometimes naive.</p>
+    <hr style="border-top:3px dashed #DC9FB4; height:0px">
+    <p align=center>厚障壁 寒颤</p>
+  </details>
+  <hr>
 </div>
 
 <!-- <details> -->
-<!-- <summary>2021-07-22</summary> -->
-<p align=center style=font-size:20px;color:#381924>Too young. Too simple. Sometimes naive.</p>
-<hr style="border-top:3px dashed #DC9FB4; height:0px">
-<p align=center>厚障壁 寒颤</p>
+<!-- <summary>2021-07-23</summary> -->
+<p class=a>   惊险…… 差点关站，起因博客源码没及时上传远端，昨天脑抽去master主支拉取远端覆盖，不知道怎么把分支hexo的图片丢失了一部分，找回过程还顺利，但很蠢；差点急了不干了，还好最终恢复过来。
+    教训就是Git命令还需要练习，而且居然把<i><b> `ls` </b></i>命令给忘了，<del>记忆力大倒退</del>
+    是看专利的一天，勇敢…… 不怕困难</p>
 <!-- </details> -->
