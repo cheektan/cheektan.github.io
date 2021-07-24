@@ -6,38 +6,17 @@ banner_img_height: 70
 banner_mask_alpha: 0.5
 ---
 <div align=center>
-  <img src="img/../../img/只言片语.png" width=200px>
+  <img src="img/../../../img/只言片语.png" width=200px>
+  <hr>
 </div>
 
----
+<!-- float music -->
 <div style="opacity:0.8 ;position:fixed; bottom:10px; left:10px">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=516358165&auto=1&height=66"></iframe>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=29463701&auto=1&height=66"></iframe>
 </div>
 
+<!-- daily notes -->
 <div>
-  <details>
-    <summary>2021-06-23</summary>
-    <div align=center>
-      <ul>
-        <big><b>莫名</b></big>
-        <li>莫名的<span style='color:#6704E0'>诋毁</span></li>
-        <li>莫名的<span style='color:#CA13FF'>嚣张</span></li>
-        <li>莫名的<span style='color:#FF2246'>愤怒</span></li>
-      </ul>
-    </div>
-  </details>
-  <hr>
-  <details>
-    <summary>2021-06-25</summary>
-    <del>办公室摸鱼的感觉；比宿舍好多了</del>
-  </details>
-  <hr>
-  <details>
-    <summary>2021-06-30</summary>
-    <b>暑假了</b><br>
-    <p>两天没干什么正事，看完两季的<span style='color:#C85BBA'>《全裸监督》</span>，迥异的人生；<i>看他高楼起，看他宾客散</i> ；独特的人格魅力可以收获一众拥趸，一旦远离信赖的团队，众叛亲离，结局令人唏嘘。</p>
-  </details>
-  <hr>
   <details>
     <summary>2021-07-05</summary>
     <div align=center>
@@ -71,7 +50,7 @@ banner_mask_alpha: 0.5
       <li>有感人的音乐故事</li>
       <li><b>还有更重要的<del style=font-weight:normal>城市</del><inset>人生</inset>爱情</b></li>
     </ul>
-    <p>这部影片结局算很好，没给鸡汤也不会寄刀片；真正的恋爱不是只有情欲，是直击心灵的对话，是能让双方成为<i><span style=font-size:0.7em>自认为（私以为这就够了）</span></i>更好的人。</p>
+    <p class=a>    这部影片结局算很好，没给鸡汤也不会寄刀片；真正的恋爱不是只有情欲，是直击心灵的对话，是能让双方成为<i><span style=font-size:0.7em>自认为（私以为这就够了）</span></i>更好的人。</p>
   </details>
   <hr>
   <details>
@@ -86,8 +65,8 @@ banner_mask_alpha: 0.5
     </style>
     <p class=a>   想在Blog添加评论区；
             看了操作要实名认证；
-                   一旦弄了后续各种美化；
-                         不值当，按住了躁动的💓</p>
+                  一旦弄了后续各种美化；
+                        不值当，按住了躁动的💓</p>
   </details>
   <hr>
   <details>
@@ -127,11 +106,32 @@ banner_mask_alpha: 0.5
     <p align=center>厚障壁 寒颤</p>
   </details>
   <hr>
-</div>
-
-<!-- <details> -->
-<!-- <summary>2021-07-23</summary> -->
-<p class=a>    惊险…… 差点关站，起因博客源码没及时上传远端，昨天脑抽去master主支拉取远端覆盖，不知道怎么把分支hexo的图片丢失了一部分，找回过程还顺利，但很蠢；差点急了不干了，还好最终恢复过来。
+  <details>
+    <summary>2021-07-23</summary>
+    <p class=a>    惊险…… 差点关站，起因博客源码没及时上传远端，昨天脑抽去master主支拉取远端覆盖，不知道怎么把分支hexo的图片丢失了一部分，找回过程还顺利，但很蠢；差点急了不干了，还好最终恢复过来。
     教训就是Git命令还需要练习，而且居然把<i><b> `ls` </b></i>命令给忘了，<del>记忆力大倒退</del>
     是看专利的一天，勇敢…… 不怕困难</p>
-<!-- </details> -->
+    <hr style="border-top:3px dashed #DC9FB4;height:0px" >
+    <p class=a style=color:grey>    破案了；.gitignore文件添加的 `img/` 名称误伤</p>
+  </details>
+  <hr>
+
+  <!-- <details> -->
+  <!-- <summary>2021-07-24</summary> -->
+  <p class=a>    强烈谴责用餐时嬉笑打闹的小情侣
+    扰我清修😡
+  </p>
+  <!-- </details> -->
+
+<!-- prevnext switch -->
+<div class="post-prevnext">
+  <article class="post-prev col-6">
+    <a href="/言叶/2021-06/">
+      <i class="iconfont icon-arrowleft"></i>
+      <span class="hidden-mobile">2021-06</span>
+      <span class="visible-mobile">上一篇</span>
+    </a>
+  </article>
+  <article class="post-next col-6">
+  </article>
+</div>
