@@ -312,6 +312,7 @@ navbar:
     # - { key: "言叶", link: "/言叶/", icon: "iconfont icon-brush"}
     - { key: '言叶', icon: 'iconfont icon-brush', 
       submenu: [
+        { key: '🕳About', link: '/言叶/' },
         { key: '2021-06', link: '/言叶/2021-06/' },
         { key: '2021-07', link: '/言叶/2021-07/' },
       ]

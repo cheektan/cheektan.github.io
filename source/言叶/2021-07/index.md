@@ -115,13 +115,25 @@ banner_mask_alpha: 0.5
     <p class=a style=color:grey>    破案了；.gitignore文件添加的 `img/` 名称误伤</p>
   </details>
   <hr>
-
-  <!-- <details> -->
-  <!-- <summary>2021-07-24</summary> -->
+  <details>
+  <summary>2021-07-24</summary>
   <p class=a>    强烈谴责用餐时嬉笑打闹的小情侣
-    扰我清修😡
-  </p>
-  <!-- </details> -->
+    扰我清修😡</p>
+  </details>
+  <hr>
+
+<!-- <details> -->
+<!-- <summary>2021-07-30</summary> -->
+<p class=a>    …… 但我认为即使互通了一千条短信，我们的心也只能拉近一厘米而已。</p>
+<p align=right>——《秒速五厘米》</p>
+<p class=a>    我要用什么样的速度，才能与你相遇。</p>
+<p align=right>——《秒速五厘米》</p>
+<p class=a>    我们仰望着同一片天空却看着不同的地方。</p>
+<p align=right>——《秒速五厘米》</p>
+<p class=a>    车站与车站之间的距离难以置信的远；
+    电车每到一站停留时间难以置信的久。</p>
+<p align=right>——《秒速五厘米》</p>
+<!-- </details> -->
 
 <!-- prevnext switch -->
 <div class="post-prevnext">

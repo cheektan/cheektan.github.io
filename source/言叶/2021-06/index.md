@@ -44,6 +44,11 @@ banner_mask_alpha: 0.5
 <!-- prevnext switch -->
 <div class="post-prevnext">
   <article class="post-prev col-6">
+      <a href="/言叶/">
+      <i class="iconfont icon-arrowleft"></i>
+      <span class="hidden-mobile">About</span>
+      <span class="visible-mobile">关于</span>
+    </a>
   </article>
   <article class="post-next col-6">
     <a href="/言叶/2021-07/">
