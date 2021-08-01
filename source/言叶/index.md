@@ -14,6 +14,11 @@ banner_mask_alpha: 0.5
 <h4 align=center>神经大条</h4>
 <h3 align=center>无脑性吐槽</h3>
 <h2 align=center>小日常微情绪</h2>
+<hr>
+
+<div>
+  <iframe src="https://open.spotify.com/embed/playlist/0j6hwfB5rZ2vyphoqANYuA?theme=0" width="100%" height="330" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 
 <!-- prevnext switch -->
 <div class="post-prevnext">

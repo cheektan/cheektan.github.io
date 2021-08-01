@@ -121,9 +121,8 @@ banner_mask_alpha: 0.5
     扰我清修😡</p>
   </details>
   <hr>
-
-<!-- <details> -->
-<!-- <summary>2021-07-30</summary> -->
+<details>
+<summary>2021-07-30</summary>
 <p class=a>    …… 但我认为即使互通了一千条短信，我们的心也只能拉近一厘米而已。</p>
 <p align=right>——《秒速五厘米》</p>
 <p class=a>    我要用什么样的速度，才能与你相遇。</p>
@@ -133,7 +132,7 @@ banner_mask_alpha: 0.5
 <p class=a>    车站与车站之间的距离难以置信的远；
     电车每到一站停留时间难以置信的久。</p>
 <p align=right>——《秒速五厘米》</p>
-<!-- </details> -->
+</details>
 
 <!-- prevnext switch -->
 <div class="post-prevnext">
@@ -145,5 +144,10 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
+      <a href="/言叶/2021-08/">
+      <span class="hidden-mobile">2021-08</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>
