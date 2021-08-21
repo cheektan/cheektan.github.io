@@ -65,3 +65,5 @@ p{
 
 <!-- 多img排列 -->
 
+hexo clean | hexo generate | hexo server | hexo deploy
+hexo new <title> | hexo new draft <title> | hexo public <draft-title> |hexo server --draft
