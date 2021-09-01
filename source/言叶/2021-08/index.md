@@ -20,13 +20,11 @@ banner_mask_alpha: 0.5
 <!-- Start -->
 <details>
 <summary>2021-08-01</summary>
-<p class=a>    7月末8月初就遇到疫情，势必不是一个容易的暑假，焦虑慌张情绪在暗暗生长，奋斗和抗争蓄势待发，等待着……</p>
-</details>
+<p class=a>    7月末8月初就遇到疫情，势必不是一个容易的暑假，焦虑慌张情绪在暗暗生长，奋斗和抗争蓄势待发，等待着……</p></details>
 <hr>
 <details>
 <summary>2021-08-10</summary>
-<p class=a>    一周多没写东西了，发生了很多事，值得写一篇博文。</p>
-</details>
+<p class=a>    一周多没写东西了，发生了很多事，值得写一篇博文。</p></details>
 <hr>
 <details>
 <summary>2021-08-17</summary>
@@ -34,12 +32,24 @@ banner_mask_alpha: 0.5
 事情却在不断发生<br>
 目前期待的事：硬盘升级</p></details>
 <hr>
-
-<!-- <details> -->
-<!-- <summary>2021-08-20</summary> -->
+<details>
+<summary>2021-08-20</summary>
 <p align=center>硬盘升级成功：三分区，系统，软件，数据，分工明确<br>
-不断遇到问题解决问题的过程，感觉也不错</p>
+不断遇到问题解决问题的过程，感觉也不错</p></details>
+<hr>
+<details>
+<summary>2021-08-27</summary>
+<p>&emsp;&emsp;装机真是一个踩坑的过程，虽然喜欢折腾，但大费力气之后，发现是最基础的小事没注意，就很心累。主机上卡槽的防呆机制很棒，不会损坏机器，缺点就是表象的正常，迟迟不能发现是安装上的错误，双刃剑吧（还是利大于弊）。<br>
 
+&emsp;&emsp;计算什么的花些时间；Java学习也要继续；开题答辩做个先手准备。<br>
+
+&emsp;&emsp;9月真的要来了……</p></details>
+<hr>
+<details>
+<summary>2021-08-31</summary>
+<p>&emsp;&emsp;2021年8月最后一天，把不幸难过的回忆留在过去，好好掌握接下来的日子。<br>
+
+&emsp;&emsp;勇于跳出舒适圈，麻烦事、困难事也要多多尝试。🐱‍🏍</p></details>
 
 
 <!-- prevnext switch -->
@@ -52,5 +62,10 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
+    <a href="/言叶/2021-09/">
+      <span class="hidden-mobile">2021-09</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>

@@ -148,6 +148,6 @@ banner_mask_alpha: 0.5
       <span class="hidden-mobile">2021-08</span>
       <span class="visible-mobile">下一篇</span>
       <i class="iconfont icon-arrowright"></i>
-    </a>
+      </a>
   </article>
 </div>

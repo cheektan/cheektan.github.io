@@ -10,7 +10,7 @@ banner_mask_alpha: 0.5
   <hr>
 </div>
 
-<h5 align=center>树洞</h5>
+<h5 align=center>小树洞</h5>
 <h4 align=center>神经大条</h4>
 <h3 align=center>无脑性吐槽</h3>
 <h2 align=center>小日常微情绪</h2>
