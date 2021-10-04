@@ -317,6 +317,7 @@ navbar:
         { key: '2021-07', link: '/言叶/2021-07/' },
         { key: '2021-08', link: '/言叶/2021-08/' },
         { key: '2021-09', link: '/言叶/2021-09/' },
+        { key: '2021-10', link: '/言叶/2021-10/' },
       ]
     }
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
