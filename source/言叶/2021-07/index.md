@@ -34,7 +34,7 @@ banner_mask_alpha: 0.5
 <details>
   <summary>2021-07-09</summary>
   今天起早去逛<i><b>万象城</b></i>，20路公交坐了半个小时；<br>
-  主要去优衣库门下店试试<a href="https://www.uniqlo.cn/product-detail.html?productCode=u0000000024026"><span style=color:#dc7554>心水的短裤</span></a>，顺便看看有较搭的<span style=background-color:#f5f5dc style=color:#0C0C0C>上衣</span>；<br>
+  主要去优衣库门下店试试<a href="https://www.uniqlo.cn/product-detail.html?productCode=u0000000024026"><span style=color:#dc7554>心水的短裤</span></a>，顺便看看有较搭的<span style="background-color:#f5f5dc;color:#0C0C0C;">上衣</span>；<br>
   短裤尺码确定了，就等淘宝降价了👀<del>昨天还是149今天就199，不降还涨气晕</del>😤
   <hr style="border-top:3px dashed #DC9FB4; height:0px;">
   <p>后续：149买到，买了绿色<del>拒绝胡萝卜裤</del></p>
