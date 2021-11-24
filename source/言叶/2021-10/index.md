@@ -57,14 +57,14 @@ banner_mask_alpha: 0.5
   <p style=text-align:center>烦躁，平息，独自乘坐夜班公交，看沿途夜景也不错,I need healing.</p>
 </details>
 <hr/>
-<detailsopen>
+<details>
   <summary>2021-10-26</summary>
   <span style='text-indent:2em;'>
   <li>一点成年人的烦恼</li>
   <li>一个学习历程的记录</li>
   <li>一些对生活的热爱和追求</li>
   </span>
-</detailsopen>
+</details>
 
 
 
@@ -79,5 +79,10 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
+  <a href="/言叶/2021-11/">
+      <span class="hidden-mobile">2021-11</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>
