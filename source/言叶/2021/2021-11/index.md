@@ -6,13 +6,13 @@ banner_img_height: 70
 banner_mask_alpha: 0.5
 ---
 <div align=center>
-  <img src="img/../../../img/只言片语.png" width=200px>
+  <img src="img/../../../../img/只言片语.png" width=200px>
   <hr>
 </div>
 
 <!-- float music -->
 <div style="opacity:0.8 ;position:fixed; bottom:10px; left:10px">
-  
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=33410938&auto=1&height=66"></iframe>
 </div>
 
 <!-- daily notes -->
@@ -39,10 +39,15 @@ banner_mask_alpha: 0.5
   </p>
 </details>
 <hr/>
-<detailsopen>
+<details>
   <summary>2021-11-24</summary>
-  <p style='text-align:center;color:#400934'>困&nbsp;&nbsp;在&nbsp;时间&nbsp;里&nbsp;的<span style='font-size:1.5em;font-weight:bold;color:#07061B'>研究生</span>⭕🙈🙉🙊❌</p>
-</detailsopen>
+  <p style='text-align:center;color:#400934'>困&nbsp;&nbsp;在&nbsp;时间&nbsp;里&nbsp;的<span style='font-size:1.3em;font-weight:bold;color:#07061B'>研究生</span>⭕🙈🙉🙊❌</p>
+</details>
+<hr/>
+<details>
+  <summary>2021-11-29</summary>
+  <p style='text-align:center;color:lightblue;font-size:1.5em;font-weight:bold'>不自知的工具人</p>
+</details>
 
 
 
@@ -52,12 +57,17 @@ banner_mask_alpha: 0.5
 <!-- prevnext switch -->
 <div class="post-prevnext">
   <article class="post-prev col-6">
-    <a href="/言叶/2021-10/">
+    <a href="/言叶/2021/2021-10/">
       <i class="iconfont icon-arrowleft"></i>
       <span class="hidden-mobile">2021-10</span> 
       <span class="visible-mobile">上一篇</span>
     </a>
   </article>
   <article class="post-next col-6">
+  <a href="/言叶/2021/2021-12/">
+      <span class="hidden-mobile">2021-12</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>

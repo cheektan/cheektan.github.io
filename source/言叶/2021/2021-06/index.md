@@ -6,7 +6,7 @@ banner_img_height: 70
 banner_mask_alpha: 0.5
 ---
 <div align=center>
-  <img src="img/../../../img/只言片语.png" width=200px>
+  <img src="img/../../../../img/只言片语.png" width=200px>
   <hr>
 </div>
 
@@ -50,7 +50,7 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
-    <a href="/言叶/2021-07/">
+    <a href="/言叶/2021/2021-07/">
       <span class="hidden-mobile">2021-07</span>
       <span class="visible-mobile">下一篇</span>
       <i class="iconfont icon-arrowright"></i>

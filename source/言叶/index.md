@@ -25,7 +25,7 @@ banner_mask_alpha: 0.5
   <article class="post-prev col-6">
   </article>
   <article class="post-next col-6">
-    <a href="/言叶/2021-06/">
+    <a href="/言叶/2021/2021-06/">
       <span class="hidden-mobile">2021-06</span>
       <span class="visible-mobile">第一篇</span>
       <i class="iconfont icon-arrowright"></i>
