@@ -10,9 +10,11 @@ banner_mask_alpha: 0.5
   <hr>
 </div>
 
-<div><style>
+<div>
+<style>
 .btn {
     background: #8265a1;
+    color: #FFFFFF;
     border-radius: .25rem;
     display: inline-block;
     font-size: .875em;
@@ -25,31 +27,37 @@ banner_mask_alpha: 0.5
     box-shadow: 0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
     margin-bottom: 1rem
 }
-</style></div>
+</style>
+</div>
 
 <div>
 <p style="font-size:1.3em"><span style="font-size:2em">2021回顾</span><br>
-{% btn "/言叶/2021/2021-06/", 06月, review %}
-{% btn "/言叶/2021/2021-07/", 07月, review %}
-{% btn "/言叶/2021/2021-08/", 08月, review %}
-{% btn "/言叶/2021/2021-09/", 09月, review %}
-{% btn "/言叶/2021/2021-10/", 10月, review %}
-{% btn "/言叶/2021/2021-11/", 11月, review %}
-{% btn "/言叶/2021/2021-12/", 12月, review %}
+{% btn "/言叶/2021/2021-06/", 06月, Review %}
+{% btn "/言叶/2021/2021-07/", 07月, Review %}
+{% btn "/言叶/2021/2021-08/", 08月, Review %}
+{% btn "/言叶/2021/2021-09/", 09月, Review %}
+{% btn "/言叶/2021/2021-10/", 10月, Review %}
+{% btn "/言叶/2021/2021-11/", 11月, Review %}
+{% btn "/言叶/2021/2021-12/", 12月, Review %}
 </p>
 <p style="font-size:1.3em"><span style="font-size:2em">2021总结</span><br>
-
+{% btn "/2022/01/10/2021年总结小记/", 2021年总结小记, Summary %}
 
 
 <!-- prevnext switch -->
 <div class="post-prevnext">
   <article class="post-prev col-6">
-    <a href="/言叶/2021-11/">
+    <a href="/言叶/2021/2021-12/">
       <i class="iconfont icon-arrowleft"></i>
-      <span class="hidden-mobile">2021-11</span> 
+      <span class="hidden-mobile">2021-12</span> 
       <span class="visible-mobile">上一篇</span>
     </a>
   </article>
   <article class="post-next col-6">
+    <a href="/言叶/2022/2022-01">
+      <span class="hidden-mobile">2022-01</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>

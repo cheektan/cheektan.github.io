@@ -50,5 +50,10 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
+    <a href="/言叶/2021/">
+      <span class="hidden-mobile">2021年回顾总结</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>
