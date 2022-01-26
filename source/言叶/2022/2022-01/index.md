@@ -34,10 +34,15 @@ banner_mask_alpha: 0.5
   </p>
 </details>
 <hr/>
-<detailsopen>
+<details>
   <summary>2022-01-24</summary>
   <p>&emsp;&emsp;阴雨绵绵，心绪万千，找寻自己最要紧的事情，做好应该能做好的，准备即将要做的事情；<br/>
   <span style="color:pink;font-weight:bold">&emsp;&emsp;忙碌带来充实和成长</span></p>
+</details>
+<hr/>
+<detailsopen>
+  <summary>2022-01-25</summary>
+  <p>有时不禁会想，我会选择怎样方式度过自己一生，我还剩多少人生可以规划，看似emo，就是吃饱了该思考人生了。</p>
 </detailsopen>
 
 <!-- prevnext switch -->
