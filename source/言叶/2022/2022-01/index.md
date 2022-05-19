@@ -40,10 +40,17 @@ banner_mask_alpha: 0.5
   <span style="color:pink;font-weight:bold">&emsp;&emsp;忙碌带来充实和成长</span></p>
 </details>
 <hr/>
-<detailsopen>
+<details>
   <summary>2022-01-25</summary>
   <p>有时不禁会想，我会选择怎样方式度过自己一生，我还剩多少人生可以规划，看似emo，就是吃饱了该思考人生了。</p>
-</detailsopen>
+</details>
+<hr/>
+<details>
+  <summary>2022-01-30</summary>
+  <p style="text-align:center;font-size:1.4em;background-color:yellow;">既然必须要写了，ddl设定在2月20日，定下从今天起每天300字输出内容的目标。<br/>
+  <div style="text-align:center;font-size:1.2em;font-weight:bold;">—> 整理框架；—> 模型调整；—> 文献收集；</div>
+  </p>
+</details>
 
 <!-- prevnext switch -->
 <div class="post-prevnext">
@@ -55,5 +62,10 @@ banner_mask_alpha: 0.5
     </a>
   </article>
   <article class="post-next col-6">
+    <a href="/言叶/2022/2022-02/">
+      <span class="hidden-mobile">2022-02</span>
+      <span class="visible-mobile">下一篇</span>
+      <i class="iconfont icon-arrowright"></i>
+    </a>
   </article>
 </div>
