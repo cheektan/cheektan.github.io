@@ -1,6 +1,6 @@
 ---
 title: 言叶
-date: 2022-08-01 00:00:00
+date: 2022-09-01 00:00:00
 banner_img: /img/言叶.jpg
 banner_img_height: 70
 banner_mask_alpha: 0.5
@@ -17,23 +17,9 @@ banner_mask_alpha: 0.5
 
 <!-- daily notes -->
 <detailsopen>
-  <summary>2022-08-02</summary>
-  <p>八月，请继续努力🙌</p>
-</detailsopen>
-<hr/>
-<detailsopen>
-  <summary>2022-08-12</summary>
-  <p>So tired, so stressful. </p>
-</detailsopen>
-<hr/>
-<detailsopen>
-  <summary>2022-08-22</summary>
-  <p>一切都是上天最好的安排，在幸运与苦难中探寻生命的价值。</p>
-</detailsopen>
-<hr/>
-<detailsopen>
-  <summary>2022-08-27</summary>
-  <p>方向和努力同等重要</p>
+  <summary>2022-09-04</summary>
+  <p>心比天高，命比纸贱</p>
+  <p>如果我对生活不满，我应该有两种选择。一个是坦然接受，接受现状未免不也是一种勇敢；另一个就是立志改变，做自己命运的主宰者。最厌烦的是抱怨的内耗着却又毫无作为，软弱者必定活得可悲。</p>
 </detailsopen>
 
 
@@ -42,15 +28,15 @@ banner_mask_alpha: 0.5
 <!-- prevnext switch -->
 <div class="post-prevnext">
   <article class="post-prev col-6">
-    <a href="/言叶/2022/2022-07/">
+    <a href="/言叶/2022/2022-08/">
       <i class="iconfont icon-arrowleft"></i>
-      <span class="hidden-mobile">2022-07</span> 
+      <span class="hidden-mobile">2022-08</span> 
       <span class="visible-mobile">上一篇</span>
     </a>
   </article>
   <article class="post-next col-6">
-    <a href="/言叶/2022/2022-09/">
-      <span class="hidden-mobile">2022-09</span>
+    <a href="/言叶/2022/2022-10/">
+      <span class="hidden-mobile">2022-10</span>
       <span class="visible-mobile">下一篇</span>
       <i class="iconfont icon-arrowright"></i>
     </a>
