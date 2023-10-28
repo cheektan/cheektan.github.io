@@ -41,11 +41,11 @@ banner_mask_alpha: 0.5
       <span class="visible-mobile">上一篇</span>
     </a>
   </article>
-  <!-- <article class="post-next col-6">
-    <a href="/言叶/2023/2023-02/">
-      <span class="hidden-mobile">2023-02</span>
+  <article class="post-next col-6">
+    <a href="/言叶/2023/2023-04/">
+      <span class="hidden-mobile">2023-04</span>
       <span class="visible-mobile">下一篇</span>
       <i class="iconfont icon-arrowright"></i>
     </a>
-  </article> -->
+  </article>
 </div>
