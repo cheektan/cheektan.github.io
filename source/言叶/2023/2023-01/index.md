@@ -26,6 +26,11 @@ banner_mask_alpha: 0.5
   </div>
   </p>
 </detailsopen>
+<hr/>
+<detailsopen>
+  <summary>2023-01-06</summary>
+  <p>犹如火柴棒支撑起的感情，一丁点的动摇都是毁灭性的……</p>
+</detailsopen>
 
 <!-- prevnext switch -->
 <div class="post-prevnext">
