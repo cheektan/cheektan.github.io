@@ -12,13 +12,13 @@ banner_mask_alpha: 0.5
 
 <!-- float music -->
 <div style="opacity:0.9 ;position:fixed; bottom:10px; left:10px;-webkit-transform:scale(0.85)">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2025198731&auto=1&height=66"></iframe>
+  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1931615525&auto=1&height=66"></iframe>
 </div>
 
 <!-- daily notes -->
 <detailsopen>
-  <summary>2024-03-14</summary>
-  <p style="text-align:center;font-weight:bold"><span style="color:red;">博客代码迁移到Mac mini成功🎉</span></p>
+  <summary>2024-05-12</summary>
+  <p style="text-align:center;font-weight:bold"><span style="font-size:1.2em;">最终还是遇到脱发问题:(</span><br/>注意作息和饮食，保持良好心态，祈愿好转❤️‍🩹</p>
 </detailsopen>
 <hr/>
 
@@ -26,17 +26,17 @@ banner_mask_alpha: 0.5
 <!-- prevnext switch -->
 <div class="post-prevnext">
   <article class="post-prev col-6">
-    <a href="/言叶/2023/2023-10/">
+    <a href="/言叶/2024/2024-03/">
       <i class="iconfont icon-arrowleft"></i>
-      <span class="hidden-mobile">2023-10</span> 
+      <span class="hidden-mobile">2024-03</span> 
       <span class="visible-mobile">上一篇</span>
     </a>
   </article>
-  <article class="post-next col-6">
-    <a href="/言叶/2024/2024-05/">
-      <span class="hidden-mobile">2024-05</span>
+  <!-- <article class="post-next col-6">
+    <a href="/言叶/2022/2022-04/">
+      <span class="hidden-mobile">2024-04</span>
       <span class="visible-mobile">下一篇</span>
       <i class="iconfont icon-arrowright"></i>
     </a>
-  </article>
+  </article> -->
 </div>
